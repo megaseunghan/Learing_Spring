@@ -1,0 +1,1 @@
+package note.deadPerson.member;public enum Grade {    BASIC,    VIP}
