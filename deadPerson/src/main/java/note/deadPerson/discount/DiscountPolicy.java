@@ -1,1 +1,0 @@
-package note.deadPerson.discount;import note.deadPerson.member.Member;public interface DiscountPolicy {    int discount(Member member, int price);}
